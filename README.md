@@ -1,4 +1,4 @@
-# Arabic-Voice-to-Text-Convertor
+ Arabic-Voice-to-Text-Convertor
 ===============
 
 This wbsite aims to convert arabic speech to text.
